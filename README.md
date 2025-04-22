@@ -1,0 +1,2 @@
+- modify ```demo.py``` for manual valuation functions
+- run ```demo_rand.py``` for random valuation functions. just change n and k values in the code
